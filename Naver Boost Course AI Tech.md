@@ -12,7 +12,7 @@ author_profile: true
 ### U stage
 3월
 - week 01
-   - [!Daily Report badge(https://img.shields.io/badge/-Day%201-red?style=flat&logo=appveyor)](https://Forbuds.github.io/Daily Reports/day_01)
+   - [!Daily Report badge(https://img.shields.io/badge/Day%2001-%7B#FD8FB8}??style=flat&logo=appveyor)](https://Forbuds.github.io/Daily Reports/day_01)
 - week 02
 - week 03
 
