@@ -1,4 +1,5 @@
 ---
+layout: about
 title: Naver Boost Course AI Tech
 image: /assets/img/blog/hydejack-9.jpg
 ---
