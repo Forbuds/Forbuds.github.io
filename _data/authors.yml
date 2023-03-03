@@ -1,8 +1,8 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
-Forbuds1:
-  name:              <Soyoung0> <Chun>
+Forbuds:
+  name:              <Soyoung> <Chun>
   email:             <soyljhg@gmail.com>
 
   # Used at the bottom of each page and at the top of the `about` layout
@@ -26,9 +26,9 @@ Forbuds1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    # twitter:         <username>
+    github:          <Forbuds1>
+    email:           <soyljhg@gmail.com>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -59,7 +59,7 @@ Forbuds1:
     # trello:          <firstnamelastname>
     # linkedin:        <firstname-lastname-string>
     # xing:            <firstname_lastname_counter>
-    # blogger:         <number>
+#    blogger:         <>
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
