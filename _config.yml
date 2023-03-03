@@ -57,6 +57,8 @@ menu:
     url:               /about/
   - title:             Naver Boost Course AI Tech
     url:               /Naver Boost Course AI Tech/
+  - title:             Blog
+    url:               /blog/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -76,7 +78,7 @@ permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
-paginate_path:         /Naver Boost Course AI Tech/:num/
+paginate_path:         /blog/:num/
 
 
 # Theme
