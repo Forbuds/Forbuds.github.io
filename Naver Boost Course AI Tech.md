@@ -12,7 +12,7 @@ author_profile: true
 ### U stage
 3월
 - week o1
-   - [!Daily Report badge(https://img.shields.io/badge/-Day%201-red?style=flat)](https://www.philgineer.com/2021/02/ai-tech.html)
+   - [!Daily Report badge(https://img.shields.io/badge/-Day%201-red?style=flat)](Daily Reports/day_01.md)
 - week 02
 - week 03
 
