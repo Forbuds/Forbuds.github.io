@@ -44,6 +44,7 @@ author:
   # Used by `jekyll-feed`:
   name:                <firstname> <lastname>
   email:               <mail@domain.tld>
+  picture:  /assets/img/me.jpg
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -338,6 +339,7 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-include-cache
   - jekyll-last-modified-at
+  - jekyll-avatar
 
 
 # SEO Tag
