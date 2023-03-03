@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Naver Boost Course AI Tech
-image: /assets/img/blog/hydejack-9.jpg
+author_profile: true
 ---
 # Daily Report
 ## _The Last Markdown Editor, Ever_
@@ -12,7 +12,7 @@ image: /assets/img/blog/hydejack-9.jpg
 ### U stage
 3월
 - week o1
-
+   - [!Daily Report badge(https://img.shields.io/badge/-Day%201-red?style=flat)](https://www.philgineer.com/2021/02/ai-tech.html)
 - week 02
 - week 03
 
