@@ -11,7 +11,7 @@ author_profile: true
 
 ### U stage
 3월
-- week o1
+- week 01
    - [!Daily Report badge(https://img.shields.io/badge/-Day%201-red?style=flat)](https://Forbuds.github.io/Daily Reports/day_01.md)
 - week 02
 - week 03
