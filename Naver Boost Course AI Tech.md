@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Naver Boost Course AI Tech
+
 author_profile: true
 ---
 # Daily Report
