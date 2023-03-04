@@ -1,5 +1,5 @@
 ---
-title: "Day 001"
+title: "Day 002"
 date: 2023-03-06
 
 categories:
