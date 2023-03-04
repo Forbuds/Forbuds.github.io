@@ -7,7 +7,7 @@ author_profile: true
 ## _The Last Markdown Editor, Ever_
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://forbuds.github.io/Naver%20Boost%20Course%20AI%20Tech/peer_session/temp.html)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://forbuds.github.io/peer_session/temp.html)
 
 ### U stage
 3월
