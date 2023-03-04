@@ -1,6 +1,6 @@
 ---
-title:  "[Jekyll] 블로그 포스팅하는 방법"
-excerpt: "md 파일에 마크다운 문법으로 작성하여 Github 원격 저장소에 업로드 해보자. 에디터는 Visual Studio code 사용! 로컬 서버에서 확인도 해보자. "
+title: "Day 002"
+date: 2023-03-06
 
 categories:
   - Blog
@@ -9,15 +9,13 @@ tags:
 toc: true
 toc_sticky: true
 ---
-# 1주차 - day 01
-뭐라뭐라
-### 01. Course
-뭐라뭐라
-### 02. Peer Session
-뭐라뭐라
-### 03. 과제 수행 과정/과제 결과물에 대한 정리
-뭐라뭐라
-### 04. 학습 회고
+[![Peer session bedge](https://img.shields.io/badge/peer%20session-B1FD8F?style=flat)](https://forbuds.github.io/peer_session/D_001.html)
+# 01. Course
+강의에 대해서 작성 합니다.
+# 02. 과제 수행 과정/과제 결과물에 대한 정리
+과제 수행했던 내용 정리 합니다.
+# 03. 학습 회고
+느낀 점과 정리해 두고 싶은 키워드를 작성합니다.
 
 ```sh
 def dfd
