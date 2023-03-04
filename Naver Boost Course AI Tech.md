@@ -7,9 +7,7 @@ author_profile: true
 ## _The Last Markdown Editor, Ever_
 
 
-[![Peer session bedge](https://img.shields.io/badge/-peer%20session-B1FD8F?style=flat)](https://forbuds.github.io/peer_session/temp.html)
-
-(https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://forbuds.github.io/peer_session/temp.html)
+[![Peer session bedge](https://img.shields.io/badge/peer%20session-B1FD8F?style=flat)](https://forbuds.github.io/peer_session/temp.html)
 
 ### U stage
 3월
