@@ -25,15 +25,26 @@ toc_sticky: true
 -  점심은 따로 외출 처리 안해도 됨
 -  
 ## 01. Course
-강의에 대해서 작성 합니다.  
-$$cos(\theta)=\frac{\left\| x\right\|_{2}^{2}+\left\| y\right\|_{2}^{2}-\left\| x-y\right\|_{2}^{2}}{2\left\| x\right\|_{2}^{2}\left\| y\right\|_{2}^{2}}$$  
-$$x+y$$  
-왜 안될까요  
-ㅇㅇ$
-cos(\theta)=\frac{2<x,y>}{2\left\| x\right\|_{2}\left\| y\right\|_{2}}
-$  
+
+$$cos(\theta)=\frac{\left\| x\right\|_{2}^{2}+\left\| y\right\|_{2}^{2}-\left\| x-y\right\|_{2}^{2}}{2\left\| x\right\|_{2}^{2}\left\| y\right\|_{2}^{2}}$$ 
+$$cos(\theta)=\frac{2<x,y>}{2\left\| x\right\|_{2}\left\| y\right\|_{2}}$$  , 이때 $$<x,y>$$ 는 $$\sum_{i=1}^{d}x_{i}y_{i}$$  
+
 ## 02. 과제 수행 과정/과제 결과물에 대한 정리
-과제 수행했던 내용 정리 합니다.
+이미지 데이터를 나타내는 형렬을 이동시키기 위해서는 행렬의 곱셈이 사용된다! 
+<span style='background-color:#ffdce0'>행렬의 곱셈</span>
+이미지를 평행이동 시키는 연산자로서의 행렬을 완성하는 과제  $$e@f$$
+$$f = \begin{bmatrix}
+ 0& 1 & 0 \\
+ 0& 0 &  1\\
+ 1& 0 & 0 \\
+\end{bmatrix}$$  
+이미지를 좌우로 대칭이동 시키는 연산자로서의 행렬을 완성하는 과제 $$e@f$$ 
+$$\begin{bmatrix}
+ 0& 0 & 1 \\
+ 0& 1 &  0\\
+ 1& 0 & 0 \\
+\end{bmatrix}$$
+
 ## 03. 학습 회고
 느낀 점과 정리해 두고 싶은 키워드를 작성합니다.
 
