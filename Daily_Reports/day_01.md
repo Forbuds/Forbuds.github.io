@@ -59,7 +59,7 @@ But, 학습은 Softmax, 추론은 one hot
 - 줌공 시간 정하기 : 10:00~12:00 , 2:00~5:00
 - PS 같이 하기 
     - 일주일에 다섯 문제 
-    - https://www.acmicpc.net/workbook/by/BaaaaaaaaaaarkingDog
+    - <https://www.acmicpc.net/workbook/by/BaaaaaaaaaaarkingDog>
     - 1. BFS 2.재귀 3. 백트래킹 4. 그리디 5. DP
 
 ## 03. 과제 수행 과정/과제 결과물에 대한 정리
