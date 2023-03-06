@@ -26,7 +26,9 @@ toc_sticky: true
 -  
 ## 01. Course
 강의에 대해서 작성 합니다.
-$ cos(\theta)=\frac{\left\| x\right\|_{2}^{2}+\left\| y\right\|_{2}^{2}-\left\| x-y\right\|_{2}^{2}}{2\left\| x\right\|_{2}^{2}\left\| y\right\|_{2}^{2}} $
+$cos(\theta)=\frac{\left\| x\right\|_{2}^{2}+\left\| y\right\|_{2}^{2}-\left\| x-y\right\|_{2}^{2}}{2\left\| x\right\|_{2}^{2}\left\| y\right\|_{2}^{2}}$
+$x+y$
+왜 안될까요
 $ cos(\theta)=\frac{2<x,y>}{2\left\| x\right\|_{2}\left\| y\right\|_{2}} $
 ## 02. 과제 수행 과정/과제 결과물에 대한 정리
 과제 수행했던 내용 정리 합니다.
