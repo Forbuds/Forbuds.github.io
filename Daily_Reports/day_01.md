@@ -27,7 +27,7 @@ toc_sticky: true
 
 ## 01. Course
 코사인 법칙이 갑자기 생각이 안났다  
-$$cos(\theta)=\frac{\left\| x\right\|_{2}^{2}+\left\| y\right\|_{2}^{2}-\left\| x-y\right\|_{2}^{2}}{2\left\| x\right\|_{2}^{2}\left\| y\right\|_{2}^{2}}$$ 
+$$cos(\theta)=\frac{\left\| x\right\|_{2}^{2}+\left\| y\right\|_{2}^{2}-\left\| x-y\right\|_{2}^{2}}{2\left\| x\right\|_{2}^{2}\left\| y\right\|_{2}^{2}}$$   
 $$cos(\theta)=\frac{2<x,y>}{2\left\| x\right\|_{2}\left\| y\right\|_{2}}$$  , 이때 $$<x,y>$$ 는 $$\sum_{i=1}^{d}x_{i}y_{i}$$  
 
 분류 문제를 풀려면 softmax함수를 풀어야 한다. (모델의 출력을 확률로 해석할 수 있게 변환해 주는 연산!)  
@@ -45,19 +45,32 @@ But, 학습은 Softmax, 추론은 one hot
 - 순전파
     - 신경망 계산 (입력 -> 선형 모델 -> 활성화함수 -> 출력)
 - 역전파
-    - 체인 룰!
-    - 가중치 행렬에 대한 gradient벡터 계산해서 경사하강법
+    - <span style="background-color:#ffdce0">체인 룰!</span>
+    - 가중치 행렬에 대한 gradient벡터 계산해서 경사하강법  
 
+## 02. 피어 세션
+모더레이터 선정 : 사다리 타기  
+피어 세선 그라운드 룰 정하기  
+- 우리 팀원을  소개합니다.  
+    - 각자의 이름, MBTI, 취미, 나이, 부캠에서 얻어가고 싶은 점 작성
+- 아침 모닝콜 : 10:00
+    - 1000원
+    - 전날에 말하면 오케이 
+- 줌공 시간 정하기 : 10:00~12:00 , 2:00~5:00
+- PS 같이 하기 
+    - 일주일에 다섯 문제 
+    - https://www.acmicpc.net/workbook/by/BaaaaaaaaaaarkingDog
+    - 1. BFS 2.재귀 3. 백트래킹 4. 그리디 5. DP
 
 ## 02. 과제 수행 과정/과제 결과물에 대한 정리
 이미지 데이터를 나타내는 형렬을 이동시키기 위해서는 <span style="background-color:#ffdce0">행렬의 곱셈</span>이 사용된다!  
-이미지를 평행이동 시키는 연산자로서의 행렬을 완성하는 과제  $$e@f$$  
+이미지를 <span style="background-color:#ffdce0">평행이동 시키는 연산자로서</span>의 행렬을 완성하는 과제  $$e@f$$  
 $$f = \begin{bmatrix}
  0& 1 & 0 \\
  0& 0 &  1\\
  1& 0 & 0 \\
 \end{bmatrix}$$  
-이미지를 좌우로 대칭이동 시키는 연산자로서의 행렬을 완성하는 과제 $$e@f$$ 
+이미지를 <span style="background-color:#ffdce0">좌우로 대칭이동 시키는 연산자</span>로서의 행렬을 완성하는 과제 $$e@f$$  
 $$f = \begin{bmatrix}
  0& 0 & 1 \\
  0& 1 &  0\\
