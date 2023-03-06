@@ -62,7 +62,7 @@ But, 학습은 Softmax, 추론은 one hot
     - https://www.acmicpc.net/workbook/by/BaaaaaaaaaaarkingDog
     - 1. BFS 2.재귀 3. 백트래킹 4. 그리디 5. DP
 
-## 02. 과제 수행 과정/과제 결과물에 대한 정리
+## 03. 과제 수행 과정/과제 결과물에 대한 정리
 이미지 데이터를 나타내는 형렬을 이동시키기 위해서는 <span style="background-color:#ffdce0">행렬의 곱셈</span>이 사용된다!  
 이미지를 <span style="background-color:#ffdce0">평행이동 시키는 연산자로서</span>의 행렬을 완성하는 과제  $$e@f$$  
 $$f = \begin{bmatrix}
@@ -77,5 +77,5 @@ $$f = \begin{bmatrix}
  1& 0 & 0 \\
 \end{bmatrix}$$
 
-## 03. 학습 회고
+## 04. 학습 회고
 첫 날이라 강의는 많이 듣지 못했고, 적응하는 시간이었던 것 같다. 강의에서 나온 코드들을 다 구현해 보고 싶은데 시간이 허락해 줄 지 모르겠다.
