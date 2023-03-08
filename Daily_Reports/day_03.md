@@ -31,7 +31,7 @@ toc_sticky: true
 **Gradient Descent**  
 - <span style="background-color:#ffdce0">$$x_{t+1} \leftarrow x_{t+1}-lr*{f}^{'}(x_{t})$$</span>  그래디언트 업데이트 식이다.
 - 경사하강법의 핵심 구간. x에 해당하는 부분 업데이트
--<span style="background-color:#ffdce0"> **"경사"로 하강법 (-)**</span> 라고 생각하면서 개념이해를 하자.
+-<span style="background-color:#ffdce0"> **"경사"로 하강법 (-)**</span> 라고 생각하면서 개념이해를 하자.  
 
 ```python
 train_x = (np.random.rand(1000) - 0.5) * 10
