@@ -31,8 +31,18 @@ toc_sticky: true
 **Gradient Descent**  
 - <span style="background-color:#ffdce0">$$x_{t+1} \leftarrow x_{t+1}-lr*{f}^{'}(x_{t})$$</span>  그래디언트 업데이트 식이다.
 - 경사하강법의 핵심 구간. x에 해당하는 부분 업데이트
--<span style="background-color:#ffdce0"> **"경사"로 하강법 (-)**</span> 라고 생각하면서 개념이해를 하자.  
+- <span style="background-color:#ffdce0"> **"경사"로 하강법 (-)**</span> 라고 생각하면서 개념이해를 하자.
+- 아래는 $${f}^{'}(x_{t})$$의 적용 방법이다.  
 
+```python
+#sym 사용
+fun = sym.poly(x**2 + 2*x + 3)
+diff = sym.diff(fun,x)
+diff.subs(x, val)        # 이렇게 적용 하거나 
+
+# 함수 사용              
+result=(f(x+h)-f(x))/h  # h=1e-9
+```
 ```python
 train_x = (np.random.rand(1000) - 0.5) * 10
 train_y = np.zeros_like(train_x)
