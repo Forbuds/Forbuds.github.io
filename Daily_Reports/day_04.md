@@ -26,11 +26,11 @@ toc_sticky: true
 내가 찾은 블로그 : <https://diseny.tistory.com/entry/%EC%9E%90%EC%9C%A0%EB%8F%84Degree-of-Freedom%EC%97%90%EC%84%9C-%EC%9E%90%EC%9C%A0%EB%A1%9C%EC%9B%8C-%EC%A7%80%EA%B8%B0>  
 
 먼저, 보통의 표본분산에 대한 설명은 
-$$s^2 = {{\sum(y_i - \overline{y})^2 }\over{n-1}}$$  
-$$\sigma^2 = {{\sum(Y_i - \overline{\mu})^2 }\over{N}}$$ 이건 모분산  
+$$s^2 = \frac{\sum (y_{i}-\bar{y})^2}{n-1}$$  
+$$\sigma ^{2} = \frac{\sum (Y_{i}-\bar{\mu })^2}{N}$$ 이건 모분산  
 모집단에서 임의적으로 추출된 표본은 모집단보단 좁은 영역으로 뽑힐 수 밖에 없기 때문에 데이터간의 편차 (bias)가 적다. 
 따라서 모분산을 추정하기 위해선 최대한 가깝게 추정해야 하니까 n보다 작은 값으로 나눠져 편차를 키워 보정이 들어가야 한다.  **불편추정값**
-그렇게 해서 $$E(S^2) = E({{\sum(y_i - \overline{y})^2 }\over{{\color{Pink} n-1}}} )=\sigma ^2$$ 이 수식이 나오고,  
+그렇게 해서 $$E(s^2) = E(\frac{\sum (y_{i}-\bar{y})^2}{{\color{Magenta} n-1}})= \sigma ^2$$ 이 수식이 나오고,  
 "표본분산의 기대값은 모분산 $$\sigma ^2$$ 과 동일"
 
 
@@ -42,6 +42,7 @@ $$\sigma^2 = {{\sum(Y_i - \overline{\mu})^2 }\over{N}}$$ 이건 모분산
 
 통계에 대한 블로그
 - <https://recipesds.tistory.com/>
+- <https://ko.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-sample/a/population-and-sample-standard-deviation-review>
 
 ## 03. 과제 수행 과정/과제 결과물에 대한 정리
 
