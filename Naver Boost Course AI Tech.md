@@ -22,4 +22,4 @@ author_profile: true
 ### 🔥 Projects
 
 ### ETC
-- [![ETC badge](https://img.shields.io/badge/추천 블로그-ff7979?style=flat)](https://Forbuds.github.io/Daily_Reports/recommend_blog.md)
+- [![ETC badge](https://img.shields.io/badge/추천 블로그-ff7979?style=flat)](https://Forbuds.github.io/Daily_Reports/recommend_blog)
