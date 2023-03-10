@@ -12,13 +12,29 @@ toc_sticky: true
 
 ## 00. 데일리 스크림
 노션에 기록
-- [x]  BFS 1문제
+- [x]  BFS 2문제
 - [x]  심화과제 2
 - [x]  AIMath 9,10  (10 정리는 내일)
 - [ ]  Python 강의
 
 ## 01. Course
+**CNN 첫 걸음**  
+앞서 배운 다층 신경망(MLP)는 각 뉴런들이 선형 모델과 활성 함수로 모두 연결된 구조였음 ( fully connected)  
+🔥$$h_{i} = \sigma(\sum_{j=1}^{p}W_{ij}x_{j})$$  
+🔥여기서 $\sigma$가 활성 함수, W가 가중치 행렬 
+    🔥가중치 행렬의 사이즈가 커지게 된다.  
+    
+🔥<span style="background-color:#ffdce0">Convolution</span>  연산은 이와 달리 <span style="background-color:#ffdce0">커널(Kernel)을 입력벡터 상에서 움직여</span>  가면서 <span style="background-color:#f7ddbe">선형모델과 함성함수가 적용</span> 되는 구조입니다.  
+🔥$$h_{i} = \sigma(\sum_{j=1}^{k}V_{j}x_{i+j-1})$$  
+🔥활성화 함수를 제외한 convolutinon 연산도 선형변환에 속한다.  
+🔥<span style="background-color:#ffdce0">차이점 : i에 따라서 가중치 행렬이 바뀌는게 아니라 적용된 커널을 움직여 가면서 적용</span>  
+파라미터 개수 줄인다!  
+    🔥커널은 정의역 내에서 움직여도 변하지 않고 (translation invariant) 주어진 신호에 국소적(local)으로 적용합니다.  
+    🔥 커널이 위치에 따라서 바뀌지 않는다!  
+커널과 입력은, 행렬연상이 아니라 elementation 하게 곱셈을 하고 덧셈을 한다.  (모양은 행렬이지만)  
 
+**CNN 첫 걸음**  
+강의만 듣고 정리는 하지 않음
 
 ## 02. 피어 세션
 심화과제 2에 대한 리뷰
@@ -47,5 +63,8 @@ $$\sigma ^{2} = \frac{\sum (Y_{i}-\bar{\mu })^2}{N}$$ 이건 모분산
 ## 03. 과제 수행 과정/과제 결과물에 대한 정리
 
 - <span style="background-color:#ffdce0">$$x_{t+1} \leftarrow x_{t+1}-lr*{f}^{'}(x_{t})$$</span>  
+
 ## 04. 학습 회고
+PS를 생각보다 다시 까먹어서 정리해가면서 기본 문제도 푸는 형식으로 해 나가야 겠다는 생각이 들었다.
+그리고 BFS, DFS를 다시금 매주 풀어가야 겠다고 생각이 들었다.
 
