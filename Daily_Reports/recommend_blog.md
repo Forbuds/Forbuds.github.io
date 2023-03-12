@@ -15,3 +15,9 @@
 ## Python에 대한 블로그
 - [Kaggle에서 numpy, pandas이용해 데이터 분석하기](https://wikidocs.net/book/4367)  
 - 
+
+## Pytorch, 딥러닝에 대한 블로그  
+- <https://github.com/akorea/pytorch_basic>  
+
+## 네부캠
+- [국문과 공대생](https://philgineer.github.io/)  
