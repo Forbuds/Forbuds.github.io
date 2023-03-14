@@ -30,6 +30,7 @@ toc_sticky: true
 
 ## Pytorch, 딥러닝에 대한 블로그  
 - <https://github.com/akorea/pytorch_basic>  
+- [PyTorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788)  
 
 ## 네부캠
 - [국문과 공대생](https://philgineer.github.io/)  
