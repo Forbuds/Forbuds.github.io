@@ -82,7 +82,7 @@ paginate:              10
 paginate_path:         /blog/:num/
 
 # add favicon
-asset_url:/assets
+asset_url: /assets
 # Theme
 # ---------------------------------------------------------------------------------------
 
