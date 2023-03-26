@@ -35,3 +35,6 @@ toc_sticky: true
 ## 네부캠
 - [국문과 공대생](https://philgineer.github.io/)  
 
+## 인터뷰, 면접 대비  
+- [인터뷰 모음 깃허브](https://github.com/boostcamp-ai-tech-4/ai-tech-interview)  
+
