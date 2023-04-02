@@ -16,7 +16,6 @@ redirect_from:
 ## Resume  
   
 
-- [![Resume badge](https://img.shields.io/badge/Resume_en-lightgrey?style=flat)](https://Forbuds.github.io/Daily_Reports/day_01)  
 - [![Resume badge](https://img.shields.io/badge/Resume_en-lightgrey?style=flat)](https://better-shock-f5c.notion.site/dfaffd7775ce432aaf66432a56a255ad)  
 
 
