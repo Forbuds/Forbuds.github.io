@@ -1,6 +1,6 @@
 ---
 layout: about
-image: /assets/img/blog/hydejack-9.jpg
+image: /assets/img/me_sq.png
 description: >
   A boutique Jekyll theme for hackers, nerds, and academics,
   with a focus on personal sites that are meant to impress.
@@ -16,7 +16,8 @@ redirect_from:
 ## Resume  
   
 
-- [![Daily Report badge](https://img.shields.io/badge/Day%2001-ff7979?style=flat)](https://Forbuds.github.io/Daily_Reports/day_01)  
+- [![Resume badge](https://img.shields.io/badge/Resume_en-lightgrey?style=flat)](https://Forbuds.github.io/Daily_Reports/day_01)  
+- [![Resume badge](https://img.shields.io/badge/Resume_en-lightgrey?style=flat)](https://better-shock-f5c.notion.site/dfaffd7775ce432aaf66432a56a255ad)  
 
 
 [blog]: /
