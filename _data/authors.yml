@@ -8,11 +8,8 @@ Forbuds:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+    ML / DL 개발자가 되고 싶은 천소영입니다.
+    누구나 처음인 개발자로 성장하며, 
 
   # This photo will be used in the about section
   picture:
@@ -27,7 +24,7 @@ Forbuds:
   # Rearrange to change the order in which they appear
   social:
     # twitter:         <username>
-    github:          <Forbuds>
+    github:          <https://github.com/Forbuds>
     email:           <soyljhg@gmail.com>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
