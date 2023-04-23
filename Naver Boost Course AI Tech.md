@@ -18,8 +18,13 @@ author_profile: true
    - [![Daily Report badge](https://img.shields.io/badge/Day%2021-ff7979?style=flat)](https://Forbuds.github.io/Daily_Reports/day_21) [![Daily Report badge](https://img.shields.io/badge/Day%2022-ffb497?style=flat)](https://Forbuds.github.io/Daily_Reports/day_22) [![Daily Report badge](https://img.shields.io/badge/Day%2023-ffe1a0?style=flat)](https://Forbuds.github.io/Daily_Reports/day_23) [![Daily Report badge](https://img.shields.io/badge/Day%2024-d7ff4f?style=flat)](https://Forbuds.github.io/Daily_Reports/day_24) [![Daily Report badge](https://img.shields.io/badge/Day%2025-c2fd8f?style=flat)](https://Forbuds.github.io/Daily_Reports/day_25)  
 - week 06
    - [![Daily Report badge](https://img.shields.io/badge/Day%2026-ff7979?style=flat)](https://Forbuds.github.io/Daily_Reports/day_26) [![Daily Report badge](https://img.shields.io/badge/Day%2027-ffb497?style=flat)](https://Forbuds.github.io/Daily_Reports/day_27) [![Daily Report badge](https://img.shields.io/badge/Day%2028-ffe1a0?style=flat)](https://Forbuds.github.io/Daily_Reports/day_28) [![Daily Report badge](https://img.shields.io/badge/Day%2029-d7ff4f?style=flat)](https://Forbuds.github.io/Daily_Reports/day_29) [![Daily Report badge](https://img.shields.io/badge/Day%2030-c2fd8f?style=flat)](https://Forbuds.github.io/Daily_Reports/day_30)  
-   
 
+- week 07  
+   - [![Daily Report badge](https://img.shields.io/badge/Day%2031-ff7979?style=flat)](https://Forbuds.github.io/Daily_Reports/day_31) [![Daily Report badge](https://img.shields.io/badge/Day%2032-ffb497?style=flat)](https://Forbuds.github.io/Daily_Reports/day_32) [![Daily Report badge](https://img.shields.io/badge/Day%2033-ffe1a0?style=flat)](https://Forbuds.github.io/Daily_Reports/day_23) [![Daily Report badge](https://img.shields.io/badge/Day%2034-d7ff4f?style=flat)](https://Forbuds.github.io/Daily_Reports/day_34) [![Daily Report badge](https://img.shields.io/badge/Day%2035-c2fd8f?style=flat)](https://Forbuds.github.io/Daily_Reports/day_35)  
+  
+- week 08  
+   
+   - [![Daily Report badge](https://img.shields.io/badge/Day%2036-ff7979?style=flat)](https://Forbuds.github.io/Daily_Reports/day_36) [![Daily Report badge](https://img.shields.io/badge/Day%2037-ffb497?style=flat)](https://Forbuds.github.io/Daily_Reports/day_37) [![Daily Report badge](https://img.shields.io/badge/Day%2038-ffe1a0?style=flat)](https://Forbuds.github.io/Daily_Reports/day_38) [![Daily Report badge](https://img.shields.io/badge/Day%2039-d7ff4f?style=flat)](https://Forbuds.github.io/Daily_Reports/day_39) [![Daily Report badge](https://img.shields.io/badge/Day%2040-c2fd8f?style=flat)](https://Forbuds.github.io/Daily_Reports/day_40)    
         
 ### 🌳 P stage
 
