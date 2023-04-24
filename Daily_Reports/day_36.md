@@ -22,21 +22,54 @@ toc_sticky: true
 ---
 
 ## 01. 강의 정리 (서비스 개발 기초)  
+&emsp;
 
 이번주 강의가 확실히 쉬어가는 느낌이긴 하다. 최대한 많이 들어 두고 정리하는 시간을 가질 수 있으면 좋을 것 같다.  
+
 (1강) 소프트웨어 엔지니어링    
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;좋은 소프트웨어 설계 : 지향점  
-  **높은 응집도**(모듈 내 교류)와 **느슨한 결합도**(모듈끼리는 덜 교류)를 가진 소프트웨어를 지향
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**높은 응집도**(모듈 내 교류)와 **느슨한 결합도**(모듈끼리는 덜 교류)를 가진 소프트웨어를 지향
 
-Twitter Architecture 자세히 보기, hidden technical debt in machine learning systems 논문은 서비스 개발의 기초
-(2강) 파이썬 버전 관리
-(3강) 리눅스 (Linux)
-(특강) 서비스 향 AI 모델 개발하기 - 이활석
-    
+&emsp;&emsp;Twitter Architecture 자세히 보기, hidden technical debt in machine learning systems 논문은 서비스 개발의 기초  
+
+(2강) 파이썬 버전 관리  
+
+&emsp;&emsp;Git commit hash도 버전의 한 종류  
+
+- 버전 (Version)  
+    - 소프트웨어 제품의 특정 릴리스에 대한 고유한 식별자  
+    - 소프트웨어가 처음 출시되었을 때나 업데이트가 이루어질 때마다 새로운 버전 번호를 부여함  
+- 버저닝 (Versioning)  
+    - 버전을 정의하는 방법  
+    - CalVer (CalendarVersioning)
+        - Ubuntu20.04
+    - SemVer(SemanticVersioning)
+        - Python3.11.0
+        - [호환 여부(**주_major**)] . [새로운 기능(**부_minor**)] . [버그수정(**패치**)]
+    - HashVer(HashVersioning)
+        - Git commit 7e6d3fd
+        - 해시 알고리즘 사용, 고유 식별자 생성 (코드 변경때마다 해시 변경)
+        - 코드 관리할때 많이 사용
+
+&emsp;&emsp;**커뮤니케이션을 수월하게 진행하기 위해 버전이 필요**
+
+&emsp;&emsp;**계속 사용되고 지속적으로 개발,릴리스 하는 소프트웨어 엔지니어링엔 버전이 반드시 필요**  
+
+&emsp;&emsp;파이썬 버전 관리 : **이왕이면 Pyenv**  
+
+(3강) 리눅스 (Linux)  
+> 연습  
+> 안녕
+
+
+(특강) 서비스 향 AI 모델 개발하기 - 이활석  
+
+&emsp;    
 ---  
 
-## 02. 동료 피드백 & 학습 회고   
+## 02. 동료 피드백 & 학습 회고  
+&emsp;   
 
 
 - 피드백을 적기가 너무나도 어려웠다. 솔직히 내가 다른 사람을 평가하는 것도 이상한 일이라고 생각한다.  
