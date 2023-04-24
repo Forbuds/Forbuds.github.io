@@ -19,7 +19,11 @@ toc_sticky: true
 - [x]  동료 피드백 (STS 대회)
 - [x]  강의 듣기  특강 1 서비스 향 AI 모델 개발하기 - 이활석
 
+&emsp; 
+
 ---
+
+&emsp; 
 
 ## 01. 강의 정리 (서비스 개발 기초)  
 &emsp;
@@ -28,10 +32,9 @@ toc_sticky: true
 
 (1강) 소프트웨어 엔지니어링    
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;좋은 소프트웨어 설계 : 지향점  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**높은 응집도**(모듈 내 교류)와 **느슨한 결합도**(모듈끼리는 덜 교류)를 가진 소프트웨어를 지향
-
-&emsp;&emsp;Twitter Architecture 자세히 보기, hidden technical debt in machine learning systems 논문은 서비스 개발의 기초  
+- 좋은 소프트웨어 설계 : 지향점  
+  - **높은 응집도**(모듈 내 교류)와 **느슨한 결합도**(모듈끼리는 덜 교류)를 가진 소프트웨어를 지향  
+- Twitter Architecture 자세히 보기, hidden technical debt in machine learning systems 논문은 서비스 개발의 기초  
 
 (2강) 파이썬 버전 관리  
 
@@ -59,14 +62,15 @@ toc_sticky: true
 &emsp;&emsp;파이썬 버전 관리 : **이왕이면 Pyenv**  
 
 (3강) 리눅스 (Linux)  
-> 연습  
-> 안녕
-
 
 (특강) 서비스 향 AI 모델 개발하기 - 이활석  
 
-&emsp;    
----  
+&emsp; 
+
+---
+
+&emsp;  
+
 
 ## 02. 동료 피드백 & 학습 회고  
 &emsp;   
