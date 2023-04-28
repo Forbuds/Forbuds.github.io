@@ -3,7 +3,7 @@ layout: post
 title: 오류 해결 일지를 생활화 하자
 description: >
   오류 해결 일지를 처음으로 작성해 보았습니다.
-My_collection: [test]
+My_collections: [test]
 categories: [category_test]
 tags: [tag_test]
 ---
