@@ -298,7 +298,7 @@ collections:
   featured_categories:
     permalink:         /:name/
     output:            true
-    
+
   My_collections:
     permalink:         /:name/
     output:            true
