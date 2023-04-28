@@ -53,7 +53,7 @@ menu:
   - title:             About
     url:               /about/
   - title:             Blog
-    url:               /blog/
+    url:               /blog/_posts/
   - title:             Naver Boost Course AI Tech
     url:               /Naver Boost Course AI Tech/
   # - title:             example
