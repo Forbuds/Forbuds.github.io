@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to load PyTorch model with different version
+title: How to load model.pt on CPU device
 
 description: >
   GPU로 학습시킨 모델을 CPU로 불러오는 방법입니다.
