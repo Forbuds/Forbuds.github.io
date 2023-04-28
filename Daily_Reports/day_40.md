@@ -23,6 +23,7 @@ toc_sticky: true
 
 Streamlit 실습
 
+![800x400](\assets\streamlit STS example.gif "Large example image")
 ---
 
 
