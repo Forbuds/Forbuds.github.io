@@ -53,7 +53,12 @@ menu:
   - title:             About
     url:               /about/
   - title:             Blog
-    url:               /My_collections/
+    url:               /blog/
+    submenu:
+      - title:  Error
+        url:      /Error/
+      - title:  DL_tips
+        url:      /DL_tips/
   - title:             Naver Boost Course AI Tech
     url:               /Naver Boost Course AI Tech/
   # - title:             Blog
@@ -163,11 +168,7 @@ defaults:
     values:
       seo:
         type:          WebPage
-  - scope:
-      type:            My_collections
-    values:
-      seo:
-        type:          WebPage
+
 
 kramdown:
   math_engine:         mathjax
@@ -301,10 +302,6 @@ hydejack:
 
 collections:
   featured_categories:
-    permalink:         /:name/
-    output:            true
-
-  My_collections:
     permalink:         /:name/
     output:            true
 
