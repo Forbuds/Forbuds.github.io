@@ -1,6 +1,6 @@
 ---
-title: "Day 038"
-date: 2023-04-26
+title: "Day 040"
+date: 2023-04-28
 
 categories:
   - Blog
