@@ -55,8 +55,8 @@ menu:
   - title:             Blog
     url:               /blog/
     submenu:
-      - title:  Error
-        url:      /Error/
+      - title:  Errors
+        url:      /Errors/
       - title:  DL_tips
         url:      /DL_tips/
   - title:             Naver Boost Course AI Tech
