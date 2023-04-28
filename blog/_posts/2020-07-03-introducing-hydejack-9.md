@@ -19,7 +19,10 @@ sitemap: false
 ## Linking in Style
 
 Ever 
-![800x400](https://via.placeholder.com/800x400 "Large example image")
+
+![800x400]("\assets\img\blog\오류해결일지.png" "Large example image")
+
+![800x400](\assets\img\blog\오류해결일지.png "Large example image")
  
 ## Ready for the Big Screen
 
