@@ -1,6 +1,6 @@
 ---
-layout: post
-category: blog
+layout: list
+category: category
 bigtitle: Logs of Errors
 description: >
   gkgkgk
