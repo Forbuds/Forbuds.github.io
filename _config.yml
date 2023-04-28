@@ -53,11 +53,11 @@ menu:
   - title:             About
     url:               /about/
   - title:             Blog
-    url:               /example/
+    url:               /blog/
   - title:             Naver Boost Course AI Tech
     url:               /Naver Boost Course AI Tech/
-  - title:             example
-    url:               /blog/
+  # - title:             example
+  #   url:               /blog/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
