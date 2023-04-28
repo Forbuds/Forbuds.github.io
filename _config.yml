@@ -53,10 +53,10 @@ menu:
   - title:             About
     url:               /about/
   - title:             Blog
-    url:               /blog/_posts/
+    url:               /Blog/
   - title:             Naver Boost Course AI Tech
     url:               /Naver Boost Course AI Tech/
-  # - title:             example
+  # - title:             Blog
   #   url:               /blog/
 
 # Add links to the footer.
