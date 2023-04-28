@@ -1,15 +1,10 @@
 ---
-layout: post
-category: blog
+layout: list
+type: category
 bigtitle: Logs of Errors
+sitemap: true
+hide_description: false
+order: 1
 description: >
   수 많은 Error 해결 일지
-related_posts:
-  -
-addons:
-  - related
-  - comments
-list: true
-order: 1
-sitemap: true
 ---
