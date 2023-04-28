@@ -1,9 +1,9 @@
 ---
-layout: list
-category: category
+layout: post
+category: blog
 bigtitle: Logs of Errors
 description: >
-  gkgkgk
+  수 많은 Error 해결 일지
 related_posts:
   -
 addons:
@@ -11,4 +11,5 @@ addons:
   - comments
 list: true
 order: 1
+sitemap: true
 ---
