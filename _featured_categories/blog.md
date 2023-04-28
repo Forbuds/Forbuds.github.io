@@ -13,8 +13,8 @@ description: >
 
 ## 카테고리
 
-* [Error]{:.heading.flip-title} ---  오류 만남 일지
+* [Errors]{:.heading.flip-title} ---  오류 만남 일지
 * [DL_tips]{:.heading.flip-title} --- DL 꿀팁들 & 고생한 흔적
 
-[Error]: /Error/
+[Errors]: /Errors/
 [DL_tips]: /DL_tips/
