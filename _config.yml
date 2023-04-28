@@ -53,7 +53,7 @@ menu:
   - title:             About
     url:               /about/
   - title:             Blog
-    url:               /blog/
+    url:               /My_collections/
   - title:             Naver Boost Course AI Tech
     url:               /Naver Boost Course AI Tech/
   # - title:             Blog
@@ -160,6 +160,11 @@ defaults:
         type:          WebPage
   - scope:
       type:            featured_tags
+    values:
+      seo:
+        type:          WebPage
+  - scope:
+      type:            My_collections
     values:
       seo:
         type:          WebPage
