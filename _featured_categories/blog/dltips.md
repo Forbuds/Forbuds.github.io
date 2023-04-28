@@ -3,7 +3,7 @@ layout: post
 category: blog
 bigtitle: DL Tips
 description: >
-  gkgkgk
+  DL / ML 꿀팁들!
 related_posts:
   -
 addons:

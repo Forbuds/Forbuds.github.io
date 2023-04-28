@@ -5,9 +5,9 @@ description: >
   오류 해결 일지를 처음으로 작성해 보았습니다.
 categories:
   - blog
-  - Errors
+  - errors
 tags:
-  - Errors
+  - errors
 sitemap: false
 ---
 

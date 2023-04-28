@@ -16,5 +16,5 @@ description: >
 * [Errors]{:.heading.flip-title} ---  오류 만남 일지
 * [DL-tips]{:.heading.flip-title} --- DL 꿀팁들 & 고생한 흔적
 
-[Errors]: /errors/
-[DL-tips]: /dl-tips/
+[errors]: /errors/
+[dL-tips]: /dltips/
