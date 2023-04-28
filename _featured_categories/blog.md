@@ -14,7 +14,7 @@ description: >
 ## 카테고리
 
 * [Errors]{:.heading.flip-title} ---  오류 만남 일지
-* [DL_tips]{:.heading.flip-title} --- DL 꿀팁들 & 고생한 흔적
+* [DL-tips]{:.heading.flip-title} --- DL 꿀팁들 & 고생한 흔적
 
 [Errors]: /errors/
-[DL_tips]: /dl_tips/
+[DL-tips]: /dl-tips/
