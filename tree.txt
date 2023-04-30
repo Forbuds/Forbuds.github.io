@@ -1,0 +1,846 @@
+D:.
+├─_sass
+├─assets
+│  ├─img
+│  │  ├─blog
+│  │  └─docs
+│  └─icons
+├─docs
+├─licenses
+├─workers-site
+├─.bundle
+├─_data
+│  └─.idea
+│      └─inspectionProfiles
+├─_featured_categories
+│  └─blog
+├─_includes
+├─vendor
+│  └─bundle
+│      └─ruby
+│          └─3.1.0
+│              ├─cache
+│              ├─build_info
+│              ├─doc
+│              ├─extensions
+│              │  └─x86-mingw32
+│              │      └─3.1.0
+│              │          ├─duktape-2.7.0.0
+│              │          ├─http_parser.rb-0.8.0
+│              │          ├─posix-spawn-0.3.15
+│              │          └─wdm-0.1.1
+│              ├─gems
+│              │  ├─colorator-1.1.0
+│              │  │  └─lib
+│              │  │      └─colorator
+│              │  ├─public_suffix-5.0.1
+│              │  │  ├─.github
+│              │  │  │  └─workflows
+│              │  │  ├─bin
+│              │  │  ├─data
+│              │  │  ├─lib
+│              │  │  │  └─public_suffix
+│              │  │  └─test
+│              │  │      ├─benchmarks
+│              │  │      ├─profilers
+│              │  │      └─unit
+│              │  ├─concurrent-ruby-1.2.2
+│              │  │  ├─ext
+│              │  │  │  └─concurrent-ruby
+│              │  │  │      └─com
+│              │  │  │          └─concurrent_ruby
+│              │  │  │              └─ext
+│              │  │  │                  ├─jsr166e
+│              │  │  │                  │  └─nounsafe
+│              │  │  │                  └─jsr166y
+│              │  │  └─lib
+│              │  │      └─concurrent-ruby
+│              │  │          └─concurrent
+│              │  │              ├─atomic
+│              │  │              ├─atomic_reference
+│              │  │              ├─collection
+│              │  │              │  └─map
+│              │  │              ├─concern
+│              │  │              ├─executor
+│              │  │              ├─synchronization
+│              │  │              ├─thread_safe
+│              │  │              │  └─util
+│              │  │              └─utility
+│              │  ├─duktape-2.7.0.0
+│              │  │  ├─ext
+│              │  │  │  └─duktape
+│              │  │  └─lib
+│              │  │      └─duktape
+│              │  ├─http_parser.rb-0.8.0
+│              │  │  ├─.github
+│              │  │  │  └─workflows
+│              │  │  ├─bench
+│              │  │  ├─ext
+│              │  │  │  └─ruby_http_parser
+│              │  │  │      ├─org
+│              │  │  │      │  └─ruby_http_parser
+│              │  │  │      └─vendor
+│              │  │  │          ├─http-parser-java
+│              │  │  │          │  ├─ext
+│              │  │  │          │  ├─src
+│              │  │  │          │  │  ├─impl
+│              │  │  │          │  │  │  └─http_parser
+│              │  │  │          │  │  │      └─lolevel
+│              │  │  │          │  │  └─test
+│              │  │  │          │  │      └─http_parser
+│              │  │  │          │  │          └─lolevel
+│              │  │  │          │  └─tools
+│              │  │  │          └─http-parser
+│              │  │  │              └─contrib
+│              │  │  ├─lib
+│              │  │  │  └─http
+│              │  │  ├─spec
+│              │  │  │  └─support
+│              │  │  └─tasks
+│              │  ├─eventmachine-1.2.7-x86-mingw32
+│              │  │  ├─docs
+│              │  │  │  └─old
+│              │  │  ├─examples
+│              │  │  │  ├─guides
+│              │  │  │  │  └─getting_started
+│              │  │  │  └─old
+│              │  │  ├─ext
+│              │  │  │  └─fastfilereader
+│              │  │  ├─java
+│              │  │  │  └─src
+│              │  │  │      └─com
+│              │  │  │          └─rubyeventmachine
+│              │  │  ├─lib
+│              │  │  │  ├─1.9
+│              │  │  │  ├─2.0
+│              │  │  │  ├─2.1
+│              │  │  │  ├─2.2
+│              │  │  │  ├─2.3
+│              │  │  │  └─em
+│              │  │  │      ├─deferrable
+│              │  │  │      └─protocols
+│              │  │  ├─rakelib
+│              │  │  └─tests
+│              │  ├─execjs-2.8.1
+│              │  │  └─lib
+│              │  │      └─execjs
+│              │  │          └─support
+│              │  ├─ffi-1.15.5-x86-mingw32
+│              │  │  ├─lib
+│              │  │  │  ├─2.4
+│              │  │  │  ├─2.5
+│              │  │  │  ├─2.6
+│              │  │  │  ├─2.7
+│              │  │  │  ├─3.0
+│              │  │  │  ├─3.1
+│              │  │  │  └─ffi
+│              │  │  │      ├─platform
+│              │  │  │      │  ├─aarch64-darwin
+│              │  │  │      │  ├─aarch64-freebsd
+│              │  │  │      │  ├─aarch64-freebsd12
+│              │  │  │      │  ├─aarch64-linux
+│              │  │  │      │  ├─aarch64-openbsd
+│              │  │  │      │  ├─arm-freebsd
+│              │  │  │      │  ├─arm-freebsd12
+│              │  │  │      │  ├─arm-linux
+│              │  │  │      │  ├─i386-cygwin
+│              │  │  │      │  ├─i386-darwin
+│              │  │  │      │  ├─i386-freebsd
+│              │  │  │      │  ├─i386-freebsd12
+│              │  │  │      │  ├─i386-gnu
+│              │  │  │      │  ├─i386-linux
+│              │  │  │      │  ├─i386-netbsd
+│              │  │  │      │  ├─i386-openbsd
+│              │  │  │      │  ├─i386-solaris
+│              │  │  │      │  ├─i386-windows
+│              │  │  │      │  ├─ia64-linux
+│              │  │  │      │  ├─mips-linux
+│              │  │  │      │  ├─mips64-linux
+│              │  │  │      │  ├─mips64el-linux
+│              │  │  │      │  ├─mipsel-linux
+│              │  │  │      │  ├─mipsisa32r6-linux
+│              │  │  │      │  ├─mipsisa32r6el-linux
+│              │  │  │      │  ├─mipsisa64r6-linux
+│              │  │  │      │  ├─mipsisa64r6el-linux
+│              │  │  │      │  ├─powerpc-aix
+│              │  │  │      │  ├─powerpc-darwin
+│              │  │  │      │  ├─powerpc-linux
+│              │  │  │      │  ├─powerpc-openbsd
+│              │  │  │      │  ├─powerpc64-linux
+│              │  │  │      │  ├─powerpc64le-linux
+│              │  │  │      │  ├─riscv64-linux
+│              │  │  │      │  ├─s390-linux
+│              │  │  │      │  ├─s390x-linux
+│              │  │  │      │  ├─sparc-linux
+│              │  │  │      │  ├─sparc-solaris
+│              │  │  │      │  ├─sparc64-linux
+│              │  │  │      │  ├─sparcv9-openbsd
+│              │  │  │      │  ├─sparcv9-solaris
+│              │  │  │      │  ├─x86_64-cygwin
+│              │  │  │      │  ├─x86_64-darwin
+│              │  │  │      │  ├─x86_64-dragonflybsd
+│              │  │  │      │  ├─x86_64-freebsd
+│              │  │  │      │  ├─x86_64-freebsd12
+│              │  │  │      │  ├─x86_64-haiku
+│              │  │  │      │  ├─x86_64-linux
+│              │  │  │      │  ├─x86_64-msys
+│              │  │  │      │  ├─x86_64-netbsd
+│              │  │  │      │  ├─x86_64-openbsd
+│              │  │  │      │  ├─x86_64-solaris
+│              │  │  │      │  └─x86_64-windows
+│              │  │  │      └─tools
+│              │  │  ├─rakelib
+│              │  │  └─samples
+│              │  ├─forwardable-extended-2.6.0
+│              │  │  └─lib
+│              │  │      └─forwardable
+│              │  │          └─extended
+│              │  ├─google-protobuf-3.22.0-x86-mingw32
+│              │  │  ├─ext
+│              │  │  │  └─google
+│              │  │  │      └─protobuf_c
+│              │  │  │          └─third_party
+│              │  │  │              └─utf8_range
+│              │  │  └─lib
+│              │  │      └─google
+│              │  │          ├─2.6
+│              │  │          ├─2.7
+│              │  │          ├─3.0
+│              │  │          ├─3.1
+│              │  │          ├─3.2
+│              │  │          └─protobuf
+│              │  ├─rb-fsevent-0.11.2
+│              │  │  ├─bin
+│              │  │  ├─ext
+│              │  │  │  └─fsevent_watch
+│              │  │  └─lib
+│              │  │      └─rb-fsevent
+│              │  ├─rexml-3.2.5
+│              │  │  ├─doc
+│              │  │  │  └─rexml
+│              │  │  │      └─tasks
+│              │  │  │          ├─rdoc
+│              │  │  │          └─tocs
+│              │  │  └─lib
+│              │  │      └─rexml
+│              │  │          ├─dtd
+│              │  │          ├─formatters
+│              │  │          ├─light
+│              │  │          ├─parsers
+│              │  │          └─validation
+│              │  ├─liquid-4.0.4
+│              │  │  ├─lib
+│              │  │  │  └─liquid
+│              │  │  │      ├─locales
+│              │  │  │      ├─profiler
+│              │  │  │      └─tags
+│              │  │  └─test
+│              │  │      ├─fixtures
+│              │  │      ├─integration
+│              │  │      │  └─tags
+│              │  │      └─unit
+│              │  │          └─tags
+│              │  ├─mercenary-0.4.0
+│              │  │  ├─examples
+│              │  │  ├─lib
+│              │  │  │  └─mercenary
+│              │  │  ├─script
+│              │  │  └─spec
+│              │  ├─rouge-4.1.0
+│              │  │  ├─bin
+│              │  │  └─lib
+│              │  │      └─rouge
+│              │  │          ├─demos
+│              │  │          ├─formatters
+│              │  │          ├─guessers
+│              │  │          ├─lexers
+│              │  │          │  ├─apache
+│              │  │          │  ├─gherkin
+│              │  │          │  ├─isbl
+│              │  │          │  ├─lasso
+│              │  │          │  ├─llvm
+│              │  │          │  ├─lua
+│              │  │          │  ├─mathematica
+│              │  │          │  ├─matlab
+│              │  │          │  ├─objective_c
+│              │  │          │  ├─ocaml
+│              │  │          │  ├─php
+│              │  │          │  ├─sass
+│              │  │          │  ├─sqf
+│              │  │          │  ├─typescript
+│              │  │          │  └─viml
+│              │  │          ├─plugins
+│              │  │          └─themes
+│              │  ├─safe_yaml-1.0.5
+│              │  │  ├─bin
+│              │  │  ├─lib
+│              │  │  │  └─safe_yaml
+│              │  │  │      ├─parse
+│              │  │  │      └─transform
+│              │  │  └─spec
+│              │  │      ├─support
+│              │  │      └─transform
+│              │  ├─unicode-display_width-2.4.2
+│              │  │  ├─data
+│              │  │  └─lib
+│              │  │      └─unicode
+│              │  │          └─display_width
+│              │  ├─webrick-1.8.1
+│              │  │  └─lib
+│              │  │      └─webrick
+│              │  │          ├─httpauth
+│              │  │          └─httpservlet
+│              │  ├─posix-spawn-0.3.15
+│              │  │  ├─bin
+│              │  │  ├─ext
+│              │  │  ├─lib
+│              │  │  │  └─posix
+│              │  │  │      └─spawn
+│              │  │  └─test
+│              │  ├─jekyll-paginate-1.1.0
+│              │  │  ├─lib
+│              │  │  │  └─jekyll-paginate
+│              │  │  ├─script
+│              │  │  └─spec
+│              │  │      └─source
+│              │  │          ├─_posts
+│              │  │          └─contacts
+│              │  ├─wdm-0.1.1
+│              │  │  ├─ext
+│              │  │  │  └─wdm
+│              │  │  └─lib
+│              │  ├─addressable-2.8.1
+│              │  │  ├─data
+│              │  │  ├─lib
+│              │  │  │  └─addressable
+│              │  │  │      └─idna
+│              │  │  ├─spec
+│              │  │  │  └─addressable
+│              │  │  └─tasks
+│              │  ├─i18n-1.12.0
+│              │  │  └─lib
+│              │  │      └─i18n
+│              │  │          ├─backend
+│              │  │          ├─gettext
+│              │  │          ├─interpolate
+│              │  │          ├─locale
+│              │  │          │  └─tag
+│              │  │          └─tests
+│              │  │              └─localization
+│              │  ├─tzinfo-2.0.6
+│              │  │  └─lib
+│              │  │      └─tzinfo
+│              │  │          ├─data_sources
+│              │  │          ├─format1
+│              │  │          └─format2
+│              │  ├─katex-0.9.0
+│              │  │  ├─lib
+│              │  │  │  └─katex
+│              │  │  └─vendor
+│              │  │      └─katex
+│              │  │          ├─fonts
+│              │  │          ├─javascripts
+│              │  │          ├─sprockets
+│              │  │          │  └─stylesheets
+│              │  │          └─stylesheets
+│              │  ├─rb-inotify-0.10.1
+│              │  │  ├─lib
+│              │  │  │  └─rb-inotify
+│              │  │  │      └─native
+│              │  │  └─spec
+│              │  ├─pathutil-0.16.2
+│              │  │  └─lib
+│              │  │      └─pathutil
+│              │  ├─kramdown-2.4.0
+│              │  │  ├─bin
+│              │  │  ├─data
+│              │  │  │  └─kramdown
+│              │  │  ├─lib
+│              │  │  │  └─kramdown
+│              │  │  │      ├─converter
+│              │  │  │      │  ├─math_engine
+│              │  │  │      │  └─syntax_highlighter
+│              │  │  │      ├─parser
+│              │  │  │      │  └─kramdown
+│              │  │  │      └─utils
+│              │  │  ├─man
+│              │  │  │  └─man1
+│              │  │  └─test
+│              │  │      └─testcases
+│              │  │          ├─block
+│              │  │          │  ├─01_blank_line
+│              │  │          │  ├─02_eob
+│              │  │          │  ├─03_paragraph
+│              │  │          │  ├─04_header
+│              │  │          │  ├─05_blockquote
+│              │  │          │  ├─06_codeblock
+│              │  │          │  │  └─rouge
+│              │  │          │  ├─07_horizontal_rule
+│              │  │          │  ├─08_list
+│              │  │          │  ├─09_html
+│              │  │          │  │  ├─content_model
+│              │  │          │  │  └─html_to_native
+│              │  │          │  ├─10_ald
+│              │  │          │  ├─11_ial
+│              │  │          │  ├─12_extension
+│              │  │          │  ├─13_definition_list
+│              │  │          │  ├─14_table
+│              │  │          │  ├─15_math
+│              │  │          │  └─16_toc
+│              │  │          ├─man
+│              │  │          └─span
+│              │  │              ├─01_link
+│              │  │              ├─02_emphasis
+│              │  │              ├─03_codespan
+│              │  │              │  └─rouge
+│              │  │              ├─04_footnote
+│              │  │              ├─05_html
+│              │  │              ├─abbreviations
+│              │  │              ├─autolinks
+│              │  │              ├─escaped_chars
+│              │  │              ├─extension
+│              │  │              ├─ial
+│              │  │              ├─line_breaks
+│              │  │              ├─math
+│              │  │              └─text_substitutions
+│              │  ├─sass-embedded-1.58.3-x86-mingw32
+│              │  │  ├─ext
+│              │  │  │  └─sass
+│              │  │  │      └─sass_embedded
+│              │  │  │          └─src
+│              │  │  └─lib
+│              │  │      └─sass
+│              │  │          ├─embedded
+│              │  │          │  └─host
+│              │  │          ├─logger
+│              │  │          └─value
+│              │  │              └─number
+│              │  ├─terminal-table-3.0.2
+│              │  │  ├─.github
+│              │  │  │  └─workflows
+│              │  │  ├─examples
+│              │  │  └─lib
+│              │  │      └─terminal-table
+│              │  ├─em-websocket-0.5.3
+│              │  │  ├─examples
+│              │  │  ├─lib
+│              │  │  │  └─em-websocket
+│              │  │  └─spec
+│              │  │      ├─integration
+│              │  │      └─unit
+│              │  ├─tzinfo-data-1.2022.7
+│              │  │  └─lib
+│              │  │      └─tzinfo
+│              │  │          └─data
+│              │  │              ├─definitions
+│              │  │              │  ├─Africa
+│              │  │              │  ├─America
+│              │  │              │  │  ├─Argentina
+│              │  │              │  │  ├─Indiana
+│              │  │              │  │  ├─Kentucky
+│              │  │              │  │  └─North_Dakota
+│              │  │              │  ├─Antarctica
+│              │  │              │  ├─Arctic
+│              │  │              │  ├─Asia
+│              │  │              │  ├─Atlantic
+│              │  │              │  ├─Australia
+│              │  │              │  ├─Brazil
+│              │  │              │  ├─Canada
+│              │  │              │  ├─Chile
+│              │  │              │  ├─Etc
+│              │  │              │  ├─Europe
+│              │  │              │  ├─Indian
+│              │  │              │  ├─Mexico
+│              │  │              │  ├─Pacific
+│              │  │              │  └─US
+│              │  │              └─indexes
+│              │  ├─listen-3.8.0
+│              │  │  ├─bin
+│              │  │  └─lib
+│              │  │      └─listen
+│              │  │          ├─adapter
+│              │  │          ├─event
+│              │  │          ├─listener
+│              │  │          ├─record
+│              │  │          └─silencer
+│              │  ├─jekyll-sass-converter-3.0.0
+│              │  │  └─lib
+│              │  │      ├─jekyll-sass-converter
+│              │  │      └─jekyll
+│              │  │          └─converters
+│              │  ├─kramdown-parser-gfm-1.1.0
+│              │  │  ├─lib
+│              │  │  │  └─kramdown
+│              │  │  │      └─parser
+│              │  │  │          └─gfm
+│              │  │  └─test
+│              │  │      └─testcases
+│              │  ├─kramdown-math-katex-1.0.1
+│              │  │  ├─lib
+│              │  │  │  └─kramdown
+│              │  │  │      └─converter
+│              │  │  │          └─math_engine
+│              │  │  └─test
+│              │  │      └─testcases
+│              │  ├─jekyll-watch-2.2.1
+│              │  │  └─lib
+│              │  │      ├─jekyll-watch
+│              │  │      └─jekyll
+│              │  │          └─commands
+│              │  ├─jekyll-4.3.2
+│              │  │  ├─exe
+│              │  │  ├─lib
+│              │  │  │  ├─blank_template
+│              │  │  │  │  ├─_layouts
+│              │  │  │  │  ├─_sass
+│              │  │  │  │  └─assets
+│              │  │  │  │      └─css
+│              │  │  │  ├─jekyll
+│              │  │  │  │  ├─commands
+│              │  │  │  │  │  └─serve
+│              │  │  │  │  │      └─livereload_assets
+│              │  │  │  │  ├─converters
+│              │  │  │  │  │  └─markdown
+│              │  │  │  │  ├─drops
+│              │  │  │  │  ├─filters
+│              │  │  │  │  ├─liquid_renderer
+│              │  │  │  │  ├─readers
+│              │  │  │  │  ├─tags
+│              │  │  │  │  └─utils
+│              │  │  │  ├─site_template
+│              │  │  │  │  └─_posts
+│              │  │  │  └─theme_template
+│              │  │  │      ├─_layouts
+│              │  │  │      └─example
+│              │  │  └─rubocop
+│              │  │      └─jekyll
+│              │  ├─jekyll-compose-0.12.0
+│              │  │  └─lib
+│              │  │      ├─jekyll-compose
+│              │  │      └─jekyll
+│              │  │          └─commands
+│              │  ├─jekyll-default-layout-0.1.5
+│              │  │  └─lib
+│              │  │      └─jekyll-default-layout
+│              │  ├─jekyll-feed-0.17.0
+│              │  │  └─lib
+│              │  │      └─jekyll-feed
+│              │  ├─jekyll-include-cache-0.2.1
+│              │  │  └─lib
+│              │  │      └─jekyll-include-cache
+│              │  ├─jekyll-last-modified-at-1.3.0
+│              │  │  └─lib
+│              │  │      └─jekyll-last-modified-at
+│              │  ├─jekyll-optional-front-matter-0.3.2
+│              │  │  └─lib
+│              │  │      └─jekyll-optional-front-matter
+│              │  ├─jekyll-readme-index-0.3.0
+│              │  │  └─lib
+│              │  │      ├─jekyll-readme-index
+│              │  │      └─jekyll
+│              │  ├─jekyll-redirect-from-0.16.0
+│              │  │  ├─lib
+│              │  │  │  └─jekyll-redirect-from
+│              │  │  ├─script
+│              │  │  └─spec
+│              │  │      ├─fixtures
+│              │  │      │  ├─_articles
+│              │  │      │  ├─_authors
+│              │  │      │  ├─_layouts
+│              │  │      │  ├─_posts
+│              │  │      │  └─tags
+│              │  │      └─jekyll_redirect_from
+│              │  ├─jekyll-relative-links-0.7.0
+│              │  │  └─lib
+│              │  │      └─jekyll-relative-links
+│              │  ├─jekyll-seo-tag-2.8.0
+│              │  │  ├─.github
+│              │  │  │  └─workflows
+│              │  │  │      └─scripts
+│              │  │  ├─docs
+│              │  │  │  └─_layouts
+│              │  │  ├─lib
+│              │  │  │  └─jekyll-seo-tag
+│              │  │  └─script
+│              │  ├─jekyll-sitemap-1.4.0
+│              │  │  ├─lib
+│              │  │  │  ├─jekyll-sitemap
+│              │  │  │  └─jekyll
+│              │  │  ├─script
+│              │  │  └─spec
+│              │  │      ├─fixtures
+│              │  │      │  ├─_layouts
+│              │  │      │  ├─_my_collection
+│              │  │      │  ├─_other_things
+│              │  │      │  ├─_posts
+│              │  │      │  ├─feeds
+│              │  │      │  ├─images
+│              │  │      │  ├─jekyll-last-modified-at
+│              │  │      │  ├─some-subfolder
+│              │  │      │  └─static_files
+│              │  │      └─robot-fixtures
+│              │  │          ├─page-at-root
+│              │  │          ├─permalinked-page-in-subdir
+│              │  │          │  └─assets
+│              │  │          ├─static-at-source-root
+│              │  │          └─static-in-subdir
+│              │  │              └─assets
+│              │  ├─jekyll-titles-from-headings-0.5.3
+│              │  │  └─lib
+│              │  │      └─jekyll-titles-from-headings
+│              │  └─jekyll-theme-hydejack-9.1.6
+│              │      ├─_includes
+│              │      │  ├─body
+│              │      │  ├─components
+│              │      │  ├─head
+│              │      │  │  └─css
+│              │      │  ├─scripts
+│              │      │  ├─styles
+│              │      │  └─templates
+│              │      ├─_layouts
+│              │      ├─_sass
+│              │      │  ├─hydejack
+│              │      │  │  ├─__inline__
+│              │      │  │  └─__link__
+│              │      │  ├─pooleparty
+│              │      │  │  ├─__inline__
+│              │      │  │  └─__link__
+│              │      │  └─tippyjs
+│              │      │      └─animations
+│              │      ├─assets
+│              │      │  ├─bower_components
+│              │      │  │  ├─MathJax
+│              │      │  │  │  └─es5
+│              │      │  │  │      ├─a11y
+│              │      │  │  │      ├─adaptors
+│              │      │  │  │      ├─input
+│              │      │  │  │      │  ├─mml
+│              │      │  │  │      │  └─tex
+│              │      │  │  │      │      └─extensions
+│              │      │  │  │      ├─output
+│              │      │  │  │      │  ├─chtml
+│              │      │  │  │      │  │  └─fonts
+│              │      │  │  │      │  │      └─woff-v2
+│              │      │  │  │      │  └─svg
+│              │      │  │  │      │      └─fonts
+│              │      │  │  │      ├─sre
+│              │      │  │  │      │  └─mathmaps
+│              │      │  │  │      └─ui
+│              │      │  │  ├─html5shiv
+│              │      │  │  │  └─dist
+│              │      │  │  └─katex
+│              │      │  │      ├─dist
+│              │      │  │      │  ├─contrib
+│              │      │  │      │  └─fonts
+│              │      │  │      ├─docs
+│              │      │  │      └─flow-typed
+│              │      │  │          └─npm
+│              │      │  ├─css
+│              │      │  ├─icomoon
+│              │      │  │  └─fonts
+│              │      │  ├─icons
+│              │      │  ├─img
+│              │      │  └─js
+│              │      └─licenses
+│              ├─plugins
+│              ├─specifications
+│              └─bin
+├─.jekyll-cache
+│  └─Jekyll
+│      └─Cache
+│          ├─Jekyll--Cache
+│          │  └─b7
+│          ├─Jekyll--Converters--Markdown
+│          │  ├─ec
+│          │  ├─c6
+│          │  ├─df
+│          │  ├─4e
+│          │  ├─b1
+│          │  ├─77
+│          │  ├─ab
+│          │  ├─81
+│          │  ├─2a
+│          │  ├─6d
+│          │  ├─8c
+│          │  ├─0a
+│          │  ├─32
+│          │  ├─76
+│          │  ├─cb
+│          │  ├─00
+│          │  ├─65
+│          │  ├─b3
+│          │  ├─1f
+│          │  ├─64
+│          │  ├─3e
+│          │  ├─34
+│          │  ├─c7
+│          │  ├─3f
+│          │  ├─e3
+│          │  ├─5a
+│          │  ├─d0
+│          │  ├─ee
+│          │  ├─e2
+│          │  ├─9b
+│          │  ├─db
+│          │  ├─c2
+│          │  ├─f4
+│          │  ├─fc
+│          │  ├─a8
+│          │  ├─9f
+│          │  ├─3a
+│          │  ├─46
+│          │  ├─8f
+│          │  ├─7a
+│          │  ├─d2
+│          │  ├─bd
+│          │  ├─a5
+│          │  ├─71
+│          │  ├─87
+│          │  ├─54
+│          │  ├─2c
+│          │  ├─3c
+│          │  ├─2d
+│          │  ├─04
+│          │  ├─8b
+│          │  ├─56
+│          │  ├─7e
+│          │  ├─0e
+│          │  ├─cc
+│          │  ├─d8
+│          │  ├─6b
+│          │  ├─6f
+│          │  ├─8d
+│          │  ├─12
+│          │  ├─a1
+│          │  ├─da
+│          │  ├─e9
+│          │  ├─4a
+│          │  ├─9e
+│          │  ├─e7
+│          │  ├─ad
+│          │  ├─19
+│          │  ├─1c
+│          │  ├─70
+│          │  ├─49
+│          │  ├─7c
+│          │  ├─99
+│          │  ├─84
+│          │  ├─14
+│          │  ├─7f
+│          │  ├─95
+│          │  ├─94
+│          │  ├─91
+│          │  ├─a6
+│          │  ├─ef
+│          │  ├─74
+│          │  ├─58
+│          │  ├─68
+│          │  ├─1d
+│          │  ├─66
+│          │  ├─27
+│          │  ├─01
+│          │  ├─a9
+│          │  ├─5d
+│          │  ├─fb
+│          │  ├─b5
+│          │  ├─f9
+│          │  ├─0b
+│          │  ├─7b
+│          │  ├─5c
+│          │  ├─13
+│          │  ├─28
+│          │  ├─bc
+│          │  ├─dd
+│          │  ├─1e
+│          │  ├─82
+│          │  ├─0c
+│          │  ├─3d
+│          │  ├─26
+│          │  ├─5b
+│          │  ├─23
+│          │  ├─c0
+│          │  ├─ea
+│          │  ├─9c
+│          │  ├─17
+│          │  └─d3
+│          └─Module
+│              ├─d0
+│              ├─e9
+│              ├─d9
+│              ├─30
+│              ├─b2
+│              ├─7f
+│              ├─3e
+│              ├─ba
+│              ├─a3
+│              ├─b7
+│              ├─90
+│              ├─54
+│              ├─26
+│              ├─44
+│              ├─77
+│              ├─cc
+│              ├─53
+│              ├─42
+│              ├─4a
+│              ├─9c
+│              ├─3b
+│              ├─03
+│              ├─f4
+│              ├─59
+│              ├─7e
+│              ├─cf
+│              ├─dd
+│              ├─84
+│              ├─c9
+│              ├─f7
+│              ├─5e
+│              ├─25
+│              ├─b5
+│              ├─10
+│              ├─55
+│              ├─a6
+│              ├─58
+│              ├─4d
+│              ├─46
+│              ├─e1
+│              ├─5a
+│              ├─66
+│              ├─d2
+│              ├─1b
+│              ├─b4
+│              ├─ca
+│              ├─3f
+│              ├─b3
+│              ├─1c
+│              ├─3c
+│              ├─ab
+│              ├─51
+│              └─7b
+├─_site
+│  ├─CHANGELOG
+│  ├─LICENSE
+│  ├─NOTICE
+│  ├─docs
+│  │  ├─advanced
+│  │  ├─basics
+│  │  ├─build
+│  │  ├─config
+│  │  ├─install
+│  │  ├─migration
+│  │  ├─scripts
+│  │  ├─upgrade
+│  │  └─writing
+│  ├─about
+│  ├─posts
+│  ├─assets
+│  │  ├─bower_components
+│  │  │  ├─katex
+│  │  │  │  ├─docs
+│  │  │  │  ├─dist
+│  │  │  │  │  ├─contrib
+├─markdown_ex
+└─_posts
+    └─blog
+        ├─dltips
+        └─Errors

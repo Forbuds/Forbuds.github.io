@@ -6,7 +6,6 @@ description: >
   GPU로 학습시킨 모델을 CPU로 불러오는 방법입니다.
 categories:
     - blog
-    - dltips
 tags:
   - dltips
 sitemap: false
