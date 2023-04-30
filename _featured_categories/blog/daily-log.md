@@ -2,7 +2,7 @@
 layout: list
 type: category
 category: blog
-bigtitle: Diary 
+bigtitle: Daily log 
 sitemap: true
 hide_description: false
 order: 1
