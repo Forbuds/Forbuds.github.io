@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Daily
+title: Daily log example
 description: >
-  test입니다.
+  Daily log example
 categories:
   - blog
   - daily-log
-
 sitemap: false
 ---
 
@@ -17,5 +16,4 @@ sitemap: false
 - Table of Contents
 {:toc .large-only}
 
-
-하하하
+## Daily log example
