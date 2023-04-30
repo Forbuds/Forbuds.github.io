@@ -14,7 +14,7 @@ description: >
 ## 카테고리
 
 * [Diary]{:.heading.flip-title} ---  발자국을 남기는 공간입니다.
-* [Gitblog-tips]{:.heading.flip-title} --- Gitblog를 커스텀하는 logs 및 tips를 적어 둡니다. 
+* [Gitblogtips]{:.heading.flip-title} --- Gitblog를 커스텀하는 logs 및 tips를 적어 둡니다. 
 
 [Diary]: /diary/
-[Gitblog-tips]:   /gitblog-tips/
+[Gitblogtips]: /gitblog-tips/

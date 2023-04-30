@@ -62,10 +62,9 @@ menu:
   - title:             Blog
     url:               /blog/
     submenu:
-
       - title:  Diary
         url:      /diary/
-      - title:  Gitblog tips
+      - title:  Gitblog-tips
         url:      /gitblog-tips/
   - title:             Naver Boost Course AI Tech
     url:               /Naver Boost Course AI Tech/
