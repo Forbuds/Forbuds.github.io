@@ -52,7 +52,7 @@ Docker 실습, Streamlit 실습 등 수 많은 에러들을 해결하느라 듣�
   - <U>오늘 하루도 미소지으며 시작해요!</U> & <U>진짜 환하게 웃으면서 오늘 하루를 시작해 보아요!</U>  
   - <U>오늘 하루도 미소지으며 시작해요!</U> & <U>오늘은 날씨가 좋지 않아요.</U>  
 
-![800x400](\assets\streamlit STS example.gif "Large example image")
+![800x400](\assets\streamlit STS example.gif "streamlit STS example")
 
 <span style="color: #848484">Streamlit 예제로 프로토타입을 만들어 [Record a screencast] 기능을 이용해 레코딩을 하면 .webn 형식의 동영상이 추출된다. 
 이를 [cloudconvert](https://cloudconvert.com/webm-to-gif)라는 사이트의 webn to gif 기능을 이용하여 Gif 포멧으로 변환해 업로드 하였다!  
