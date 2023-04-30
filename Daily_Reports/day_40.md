@@ -39,8 +39,8 @@ Docker 실습, Streamlit 실습 등 수 많은 에러들을 해결하느라 듣�
 
 결국 새벽이 다 되어서야 완성한 실습이었다. 제출 후에 조금씩 다듬느라 시간이 오래 걸렸지만 처음으로 딥러닝 모델을 가지고 만든 프로토타입이라 너무 재미있었다.  
 &emsp;  
-✅ 다음은 [Korean-specific ELECTRA model](https://huggingface.co/snunlp/KR-ELECTRA-discriminator)을 가지고 <span style="color: #e54685;background-color:#ffdce0">**Semantic Text Similarity(STS : 문장 유사도)**</span>를 계산한 결과이다.  
-<span style="color: #e54685;background-color:#ffdce0">**0~5**</span>의 점수로 유사도 점수  
+✅ 다음은 [Korean-specific ELECTRA model](https://huggingface.co/snunlp/KR-ELECTRA-discriminator)을 가지고 <span style="color: #e54685;background-color:#ffdce0">**Semantic Text Similarity(STS : 문장 유사도)**</span>를 계산한 결과를 이다.  
+<span style="color: #e54685;background-color:#ffdce0">**0~5**</span>의 점수로 유사도 점수를 산출한다.  
 
 ![800x400](\assets\streamlit STS example.gif "Large example image")
 
