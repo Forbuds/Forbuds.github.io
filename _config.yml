@@ -57,8 +57,8 @@ menu:
     submenu:
       - title:  Errors
         url:      /errors/
-      - title:  DL_tips
-        url:      /dltips/
+      - title:  ML/DL
+        url:      /ml-dl/
   - title:             Blog
     url:               /blog/
     submenu:
