@@ -9,3 +9,4 @@ order: 2
 description: >
   DL / ML 꿀팁들! & 공부 일지
 ---
+# ML/DL Tips & Logs of Study
