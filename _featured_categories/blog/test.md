@@ -10,7 +10,7 @@ addons:
   - related
   - comments
 list: true
-order: 3
+order: 1
 ---
 
 ## 카테고리

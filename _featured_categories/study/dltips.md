@@ -1,6 +1,6 @@
 ---
 layout: post
-category: blog
+category: study
 bigtitle: DL Tips
 description: >
   DL / ML 꿀팁들!

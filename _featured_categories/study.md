@@ -4,7 +4,7 @@ type: category
 bigtitle: Blog
 sitemap: true
 hide_description: false
-order: 3
+order: 2
 description: >
   블로그 주요 포스팅 공간
 ---

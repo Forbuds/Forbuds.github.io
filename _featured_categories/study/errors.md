@@ -1,6 +1,7 @@
 ---
 layout: list
 type: category
+category: study
 bigtitle: Logs of Errors
 sitemap: true
 hide_description: false

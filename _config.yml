@@ -52,8 +52,8 @@ Forbuds:
 menu:
   - title:             About
     url:               /about/
-  - title:             Blog
-    url:               /blog/
+  - title:             Study
+    url:               /study/
     submenu:
       - title:  Errors
         url:      /errors/
@@ -61,6 +61,11 @@ menu:
         url:      /dltips/
       - title:  Test
         url:      /test/
+  - title:             Blog
+    url:               /blog/
+    submenu:
+      - title:  Diary
+        url:      /diary/
   - title:             Naver Boost Course AI Tech
     url:               /Naver Boost Course AI Tech/
   # - title:             Blog
