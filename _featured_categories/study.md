@@ -17,5 +17,5 @@ description: >
 * [DL-tips]{:.heading.flip-title} --- DL 꿀팁들 & 고생한 흔적
 * []
 
-[errors]: /errors/
-[dL-tips]: /dltips/
+[Errors]: /errors/
+[DL-tips]: /dltips/
