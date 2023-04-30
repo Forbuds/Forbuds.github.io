@@ -59,11 +59,11 @@ menu:
         url:      /errors/
       - title:  DL_tips
         url:      /dltips/
-      - title:  Test
-        url:      /test/
   - title:             Blog
     url:               /blog/
     submenu:
+      - title:  Test
+        url:      /test/
       - title:  Diary
         url:      /diary/
   - title:             Naver Boost Course AI Tech
