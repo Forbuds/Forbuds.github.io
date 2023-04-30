@@ -13,6 +13,6 @@ description: >
 
 ## 카테고리
 
-* [Test]{:.heading.flip-title} ---  Test입니다.
+* [Diary]{:.heading.flip-title} ---  발자국을 남기는 공간입니다.
 
-[Test]: /test/
+[Test]: /diary/

@@ -9,4 +9,4 @@ sidebar: true
 description: >
     Papers를 모아 두었습니다.
 ---
-## paper 정리 페이지
+## papers
