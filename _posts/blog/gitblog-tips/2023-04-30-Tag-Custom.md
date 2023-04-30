@@ -18,7 +18,40 @@ sitemap: false
 
 ## Git blog의 tag 기능을 추가하였다!
 
+### Configure modify
+--- 
+_config.yaml
+```bash
+collections:
 
+  featured_tags:
+    permalink:         /:name/
+    output:            true
+```
+### Make tagename
+--------------------------------------------------------------------------------
+
+/_featured_tags/tagname.md
+```bash
+---
+layout: list
+title: tagname
+slug:   tagname
+hide_description: false
+description: >
+  blah..
+---
+# tagname
+```
+### In posts
+--------------------------------------------------------------------------------
+
+/_posts/yyyy-mm-dd-Title.md
+```bash
+tags: [tagname,tag2, ,,,]
+```
+
+---
 
 ## 부족한 점
 sitemap을 클릭하면
