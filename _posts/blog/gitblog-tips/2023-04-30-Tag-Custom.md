@@ -2,7 +2,7 @@
 layout: post
 title: Gitblog custom - Add tags
 description: >
-  test입니다.
+  Gitblog에 Tag를 추가하는 방법을 정리합니다.
 categories:
   - blog
   - gitblog-tips
