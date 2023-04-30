@@ -1,17 +1,13 @@
 ---
-layout: post
+layout: list
+type: category
 category: blog
 bigtitle: Test
-description: >
-  test
-related_posts:
-  -
-addons:
-  - related
-  - comments
-list: true
+sitemap: true
+hide_description: false
 order: 1
+description: >
+  Test 입니다.
 ---
 
-## 카테고리
-카테고리 입니다.
+# dd

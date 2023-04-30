@@ -1,14 +1,11 @@
 ---
-layout: post
+layout: list
+type: category
 category: study
 bigtitle: DL Tips
+sitemap: true
+hide_description: false
+order: 2
 description: >
   DL / ML 꿀팁들!
-related_posts:
-  -
-addons:
-  - related
-  - comments
-list: true
-order: 2
 ---
