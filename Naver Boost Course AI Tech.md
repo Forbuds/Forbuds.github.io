@@ -40,3 +40,7 @@ author_profile: true
 
 ### ETC  
 - [![ETC badge](https://img.shields.io/badge/추천 블로그-ff7979?style=flat)](https://Forbuds.github.io/Daily_Reports/recommend_blog)  
+
+
+### Notice
+- [국문과 공대생](https://philgineer.github.io/)님의 정리 방식을 따라 하였습니다!
