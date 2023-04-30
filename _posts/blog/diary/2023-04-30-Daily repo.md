@@ -5,9 +5,7 @@ description: >
   test입니다.
 categories:
   - blog
-  - test
-tags:
-  - test
+  - diary
 sitemap: false
 ---
 

@@ -2,11 +2,13 @@
 layout: list
 type: category
 category: blog
-bigtitle: Test
+bigtitle: Diary
 sitemap: true
 hide_description: false
 order: 1
 description: >
-  Test 입니다.
+  발자국을 남기는 공간입니다.
 ---
+# Diary
+
 
