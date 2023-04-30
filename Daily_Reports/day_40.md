@@ -43,7 +43,8 @@ Docker 실습, Streamlit 실습 등 수 많은 에러들을 해결하느라 듣�
 &emsp;  
 ✅ 다음은 [Korean-specific ELECTRA model](https://huggingface.co/snunlp/KR-ELECTRA-discriminator)을 가지고 <span style="color: #e54685;background-color:#ffdce0">**Semantic Text Similarity(STS : 문장 유사도)**</span>를 계산한 결과를 [Streamlit](https://streamlit.io/)을 사용해 디스플레이한 모습이다.  
 &emsp; → Streamlit 기본 예제는 [↪️Link](https://docs.streamlit.io/)에서 확인할 수 있다.   
-&emsp; → [↪️ 변성윤 마스터님의 Streamlit 예제 정리](https://zzsza.github.io/mlops/2021/02/07/python-streamlit-dashboard/)
+&emsp; → [↪️ 변성윤 마스터님의 Streamlit 예제 정리](https://zzsza.github.io/mlops/2021/02/07/python-streamlit-dashboard/)  
+&emsp; → [↪️ 변성윤 마스터님의 Product serving 코드](https://github.com/zzsza/Boostcamp-AI-Tech-Product-Serving/tree/main/part2/02-streamlit)
 
 - 두 개의 문장을 입력하면
 <span style="color: #e54685;background-color:#ffdce0">**0~5**</span>의 점수로 **유사도 점수**를 산출한다.  
