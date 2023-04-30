@@ -40,12 +40,12 @@ Pytorch 공식 문서 [TORCH.LOAD](https://pytorch.org/docs/stable/generated/tor
 ```
 torch.save(model, folder_name+ 'model.pt')   # save code
 ```
-이렇게 저장한 모델을 불러오고 싶을 때 같은 GPU 였다면
+이렇게 저장한 모델을 불러오고 싶을 때 같은 GPU 였다면  (Training on GPU, runing on GPU)
 ```
 model = CustomModel()
 model = torch.load(log_dir+'model.pt')  # Prediction on GPU
 ```
-이렇게 불러오면 됐지만, 모델을 서버에서 다운받아 CPU에서 처리해 개발하고 싶을 경우 (ex: windows) 다음과 같이 불러와야 한다.
+이렇게 불러오면 됐지만, 모델을 서버에서 다운받아 CPU에서 처리해 개발하고 싶을 경우 (ex: windows) 다음과 같이 불러와야 한다.  (Training on GPU, runing on CPU)
 
 ```
 model = CustomModel()
