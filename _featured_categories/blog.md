@@ -19,4 +19,4 @@ description: >
 
 [errors]: /errors/
 [dL-tips]: /dltips/
-[test]: /tag-test/
+[test]: /test/
