@@ -59,6 +59,8 @@ menu:
         url:      /errors/
       - title:  DL_tips
         url:      /dltips/
+      - title:  Test
+        url:      /test/
   - title:             Naver Boost Course AI Tech
     url:               /Naver Boost Course AI Tech/
   # - title:             Blog
