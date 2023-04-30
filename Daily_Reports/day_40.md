@@ -39,23 +39,23 @@ Docker 실습, Streamlit 실습 등 수 많은 에러들을 해결하느라 듣�
 
 결국 새벽이 다 되어서야 완성한 실습이었다. 제출 후에 조금씩 다듬느라 시간이 오래 걸렸지만 처음으로 딥러닝 모델을 가지고 만든 프로토타입이라 너무 재미있었다.  
 &emsp;  
-다음은 Koelectra모델을 가지고 
-Semantic Text Similarity(STS : 문장 유사도)
+✅ 다음은 [Korean-specific ELECTRA model](https://huggingface.co/snunlp/KR-ELECTRA-discriminator)을 가지고 <span style="color: #e54685;background-color:#ffdce0">**Semantic Text Similarity(STS : 문장 유사도)**</span>를 계산한 결과이다.  
+<span style="color: #e54685;background-color:#ffdce0">**0~5**</span>의 점수로 유사도 점수  
 
 ![800x400](\assets\streamlit STS example.gif "Large example image")
 
-Streamlit 예제로 프로토타입을 만들어 [Record a screencast] 기능을 이용해 레코딩을 하면 .webn 형식의 동영상이 추출된다.  
+<span style="color: ##848484;">Streamlit 예제로 프로토타입을 만들어 [Record a screencast] 기능을 이용해 레코딩을 하면 .webn 형식의 동영상이 추출된다.  
 이를 [cloudconvert](https://cloudconvert.com/webm-to-gif)라는 사이트의 webn to gif 기능을 이용하여 Gif 포멧으로 변환해 업로드 하였다!  
-
+</span>
 
 ---
 
 
-## 02. 동료 피드백 & 학습 회고  
+## 03. 학습 회고  
 &emsp;   
 
-결국 문제는 pytorch version이었는데, 그 오류를 해결하기까지 너무나도 오래 걸렸다.
-
+결국 문제는 pytorch version이었는데, 그 오류를 해결하기까지 너무나도 오래 걸렸다.  
+klue relation extraction이 다음 대회로 예정되어 있으니 미리 예습해야겠다.  
 
   
 ---  

@@ -4,6 +4,9 @@
 - 굵은 글씨
   - \*\*굵은 글씨\*\*  
   - **굵은 글씨**  
+- 응용
+  - \<span style="color: #e54685;background-color:#ffdce0">**응용**\</span>
+  - <span style="color: #e54685;background-color:#ffdce0">**응용**</span>
 - '---','***'
 ---
 --- 
