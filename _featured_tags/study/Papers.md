@@ -7,5 +7,5 @@ category:
    - study
 sidebar: true
 description: >
-    Papers
+    Papers를 모아 두었습니다.
 ---
