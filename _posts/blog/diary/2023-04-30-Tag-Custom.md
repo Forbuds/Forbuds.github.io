@@ -5,7 +5,7 @@ description: >
   test입니다.
 categories:
   - blog
-  - gitblog_tips
+  - gitblog-tips
 sitemap: false
 ---
 
