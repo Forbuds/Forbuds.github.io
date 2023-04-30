@@ -42,7 +42,8 @@ Docker 실습, Streamlit 실습 등 수 많은 에러들을 해결하느라 듣�
 제출 후에 조금씩 다듬느라 시간이 오래 걸렸지만 처음으로 딥러닝 모델을 가지고 만든 프로토타입이라 너무 재미있었다.  
 &emsp;  
 ✅ 다음은 [Korean-specific ELECTRA model](https://huggingface.co/snunlp/KR-ELECTRA-discriminator)을 가지고 <span style="color: #e54685;background-color:#ffdce0">**Semantic Text Similarity(STS : 문장 유사도)**</span>를 계산한 결과를 [Streamlit](https://streamlit.io/)을 사용해 디스플레이한 모습이다.  
-&emsp;  Streamlit 기본 예제는 [↪️Link](https://docs.streamlit.io/)에서 확인할 수 있다. 
+&emsp; → Streamlit 기본 예제는 [↪️Link](https://docs.streamlit.io/)에서 확인할 수 있다.   
+&emsp; → [↪️ 변성윤 마스터님의 Streamlit 예제 정리](https://zzsza.github.io/mlops/2021/02/07/python-streamlit-dashboard/)
 
 - 두 개의 문장을 입력하면
 <span style="color: #e54685;background-color:#ffdce0">**0~5**</span>의 점수로 **유사도 점수**를 산출한다.  
