@@ -3,7 +3,7 @@ layout: post
 title: GLUE Benchmark란?
 
 description: >
-  GPU로 학습시킨 모델을 CPU로 불러오는 방법입니다.
+  GLUE Benchmark에 대해 정리해 두었습니다.
 categories:
     - study
     - ml-dl
