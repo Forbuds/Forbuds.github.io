@@ -15,4 +15,4 @@ description: >
 
 * [Diary]{:.heading.flip-title} ---  발자국을 남기는 공간입니다.
 
-[Test]: /diary/
+[Diary]: /diary/

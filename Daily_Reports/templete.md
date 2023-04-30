@@ -1,0 +1,20 @@
+- 하이라이트
+  - \<span style="background-color:#ffdce0">하이라이트\</span>  
+  - <span style="background-color:#ffdce0">하이라이트</span>
+- 굵은 글씨
+  - \*\*굵은 글씨\*\*  
+  - **굵은 글씨**  
+- '---','***'
+---
+--- 
+- Image   
+  - \!\[400x200](\assets\img\blog\image.png "Example image")
+  - ![400x200](\assets\img\blog\image.png "Example image")
+- URL
+  - \[표시할 글자](https://)  
+  - [표시할 글자 URL_Naver](https://www.naver.com/)  
+---
+- Check box
+  - \- [x], \- [ ]
+  - [x]  체크
+  - [ ]  체크 해제
