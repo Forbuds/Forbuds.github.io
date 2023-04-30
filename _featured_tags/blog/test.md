@@ -1,8 +1,8 @@
 ---
 layout: tag-list
 type: tag
-bigtitle: Errors
-slug: errors
+bigtitle: Test
+slug: test
 category:
    - blog
 sidebar: true
