@@ -7,7 +7,7 @@ description: >
 categories:
     - study
     - ml-dl
-
+tags: [pytorch_tips]
 sitemap: false
 ---
 

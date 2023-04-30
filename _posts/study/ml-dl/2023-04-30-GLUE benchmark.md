@@ -7,9 +7,7 @@ description: >
 categories:
     - study
     - ml-dl
-tags:
-  - papers
-  - NLP
+tags: [papers,nlp]
 sitemap: false
 ---
 

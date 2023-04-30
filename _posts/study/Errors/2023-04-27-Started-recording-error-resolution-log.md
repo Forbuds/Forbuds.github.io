@@ -6,8 +6,7 @@ description: >
 categories:
   - study
   - errors
-tags:
-  - errors
+
 sitemap: false
 ---
 
