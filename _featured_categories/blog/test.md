@@ -13,14 +13,4 @@ list: true
 order: 3
 ---
 
-<!-- ---
-layout: tag-list
-type: tag
-bigtitle: Test
-slug: test
-category:
-   - blog
-sidebar: false
-description: >
-    ㅜㅐㅜklhk
---- -->
+## 카테고리
