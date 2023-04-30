@@ -2,7 +2,7 @@
 layout: tag-list
 type: tag
 bigtitle: Test
-slug: test
+slug: tag-test
 category:
    - blog
 sidebar: false
