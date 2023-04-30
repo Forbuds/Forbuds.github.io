@@ -9,7 +9,7 @@ description: >
   Logs of study
 ---
 
-# Blog
+# Study
 
 ## 카테고리
 
