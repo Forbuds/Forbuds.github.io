@@ -54,7 +54,13 @@ toc_sticky: true
 - 네트워크 전반에 대한 설명
 - 성능모니터링 몇 가지 방법
 
-**도커 설치와 도커 이미지 빌드로 날려먹은 하루였다!!**
+  
+### 너무나 많은 Error, 에러 일지를 쓰기 시작하다!  
+
+- **도커 설치와 도커 이미지 빌드로 날려먹은 하루였다!!**  
+- Vscode에 python을 사용할 수 있도록 하는 것도 안해뒀기 때문에 [↪️ Notion Link ](https://glacier-fiction-d9a.notion.site/vscode-python-fd629ca1b42a49c5b273201487abaec4)에 간단히 정리해 두면서 했다.  
+- 🔥 너무나도 많은 에러를 겪으며 **정리할 필요성**을 느끼게 되었다. 따라서 [↪️ Link ](https://forbuds.github.io/study/errors/2023-04-27-Started-recording-error-resolution-log/)와 같이 Notion에 에러 해결 일지와 설치 로그, 명령어 등을 정리하기 시작했다.🔥  
+
 
 ---
 
