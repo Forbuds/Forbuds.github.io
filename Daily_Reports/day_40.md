@@ -9,6 +9,9 @@ tags:
 toc: true
 toc_sticky: true
 ---
+{:.lead}
+
+- Table of Contents
 {:toc .large-only}
 ## 00. 데일리 스크럼  
 노션에 기록  
