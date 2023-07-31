@@ -18,3 +18,4 @@ description: >
 
 [Errors]: /errors/
 [ML/DL]: /ml-dl/
+[Algorithm]: /algorithm/
