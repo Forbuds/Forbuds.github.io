@@ -45,3 +45,6 @@ Pick an Option > Create a new Private Repository를 클릭해 새로운 레파�
 
 ## 4. 문제 풀기
 
+백준에서 제출하면 바로 아래와 같이 커밋되는 것을 확인할 수 있다.
+
+![Alt text](/assets/img/blog/beakjoon_autocommitex.png)
