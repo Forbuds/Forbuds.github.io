@@ -47,7 +47,8 @@ Class: Comparison sort
         <details>
         <summary>코드</summary>
         <div markdown="1">
-                ```python
+
+        ```python
                 import sys
                 input = sys.stdin.readline
 
@@ -64,6 +65,6 @@ Class: Comparison sort
                         l[i] = l[c_i]
                         l[c_i] = g
                 print('\n'.join([str(i) for i in l]))
-                ```
+        ```
         </div>
         </details>
