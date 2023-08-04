@@ -49,7 +49,6 @@ Class: Comparison sort
         <div markdown="1">
 
         ```python
-
         import sys
         input = sys.stdin.readline
 
@@ -67,6 +66,5 @@ Class: Comparison sort
                 l[c_i] = g
         print('\n'.join([str(i) for i in l]))
         ```
-        
         </div>
         </details>
