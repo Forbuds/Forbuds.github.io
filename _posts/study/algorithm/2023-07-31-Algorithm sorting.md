@@ -49,22 +49,24 @@ Class: Comparison sort
         <div markdown="1">
 
         ```python
-                import sys
-                input = sys.stdin.readline
 
-                n = int(input())
-                l = [int(input()) for _ in range(n)]
-                # print(n,l)
+        import sys
+        input = sys.stdin.readline
 
-                for i in range(n-1):                        # 마지막 인덱스 직전까지 탐색
-                    g = l[i]                                # 현재 값 보관  -> 항상 보관은 하나만 하면 된다.
-                    c_i = l.index(min(l[i+1:]))             # i+1 부터 끝까지 중에 가장 작은 인덱스 추출    -> list는 역시 내장 함수가 가장 빠르다
-                    if g <= l[c_i]:
-                        pass
-                    else:
-                        l[i] = l[c_i]
-                        l[c_i] = g
-                print('\n'.join([str(i) for i in l]))
+        n = int(input())
+        l = [int(input()) for _ in range(n)]
+        # print(n,l)
+
+        for i in range(n-1):                        # 마지막 인덱스 직전까지 탐색
+            g = l[i]                                # 현재 값 보관  -> 항상 보관은 하나만 하면 된다.
+            c_i = l.index(min(l[i+1:]))             # i+1 부터 끝까지 중에 가장 작은 인덱스 추출    -> list는 역시 내장 함수가 가장 빠르다
+            if g <= l[c_i]:
+                pass
+            else:
+                l[i] = l[c_i]
+                l[c_i] = g
+        print('\n'.join([str(i) for i in l]))
         ```
+        
         </div>
         </details>
