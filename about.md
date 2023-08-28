@@ -13,10 +13,37 @@ redirect_from:
 
 <!--author-->
 
+
+## “ML/DL 기술로 삶에 가치를 더하고 싶은 천소영입니다.”    
+
+1. 문제 해결을 위한 데이터 수집부터 결과 도출까지, 다양한 유형의 데이터 경험
+   
+   - 다양한 형식의 데이터 경험으로 각 데이터의 특성을 알고 활용할 줄 압니다.
+   - 자연어, 이미지, pointcloud, 신호 데이터를 분석하고 다뤄본 경험이 있습니다. 
+
+&emsp;&emsp;    
+
+2. 효과적인 커뮤니케이션을 통한 협업의 장점 극대화
+   
+   - 협업을 통해 팀 단위의 프로젝트에서 협업의 장점을 끌어내 본 경험이 있습니다.
+
+&emsp;    
+
+3. 배울 점이 있는 곳은 어디든 찾아가는 행동파
+   
+   - 배움의 즐거움을 알고, 끊임없이 성장하고자 합니다.
+
+
+
 ## Resume  
   
 
-- [![Resume badge](https://img.shields.io/badge/Resume_en-lightgrey?style=flat)](https://better-shock-f5c.notion.site/dfaffd7775ce432aaf66432a56a255ad)  
+- [![Resume badge](https://img.shields.io/badge/Resume_ko-lightgrey?style=flat)](https://github.com/Forbuds/Forbuds.github.io/blob/main/assets/Soyoung%20Chun%20RESUME_8.pdf)  
+  
+
+## Portfolio
+
+
 - [![Resume badge](https://img.shields.io/badge/Portfolio-lightgrey?style=flat)](https://glacier-fiction-d9a.notion.site/Portfolio-0f7cb396cfc8450b933d0aade447ab11?pvs=4)    
 
 [blog]: /
