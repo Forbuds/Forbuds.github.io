@@ -17,7 +17,7 @@ redirect_from:
   
 
 - [![Resume badge](https://img.shields.io/badge/Resume_en-lightgrey?style=flat)](https://better-shock-f5c.notion.site/dfaffd7775ce432aaf66432a56a255ad)  
-- [![Resume badge](https://img.shields.io/badge/Portfolio-lightgrey?style=flat)](https://github.com/Forbuds/Forbuds.github.io/blob/main/%EC%B2%9C%EC%86%8C%EC%98%81_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)    
+- [![Resume badge](https://img.shields.io/badge/Portfolio-lightgrey?style=flat)](https://glacier-fiction-d9a.notion.site/Portfolio-0f7cb396cfc8450b933d0aade447ab11?pvs=4)    
 
 [blog]: /
 [portfolio]: https://hydejack.com/examples/
